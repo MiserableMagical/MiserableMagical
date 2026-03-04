@@ -3,7 +3,7 @@ Hi, I'm **MiserableMagical**, also nicknamed as **beacon_cwk**.I'm currently stu
 - 🔭 Currently working on competitive programming and music generation methods.
 - 🌱 Currently learning DL.
 
-I'm not familiar with many languages, except for C++ and python, but I'm planning to learn more.
+I'm not familiar with many languages, except for C++, python, Java and ArkTS, but I'm planning to learn more.
 
 Here are some strange repositories,including school homework,a puzzle game, a LOGO interpreter and even a songlist of Akie.
 
