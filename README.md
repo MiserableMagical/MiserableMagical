@@ -1,12 +1,11 @@
-Hi, I'm MiserableMagical, also nicknamed as **beacon_cwk**.I'm currently studying in NWPU.
+Hi, I'm **MiserableMagical**, also nicknamed as **beacon_cwk**.I'm currently studying in the school of software of NWPU.
 
-- 🔭 Currently busy with CP.
+- 🔭 Currently working on competitive programming and music generation methods.
+- 🌱 Currently learning DL.
 
 I'm not familiar with many languages, except for C++ and python, but I'm planning to learn more.
 
-I'd also like to learn AI and deep learning technology.
-
-Here are some strange repositories, like a puzzle game, a LOGO interpreter and even a songlist of Akie.
+Here are some strange repositories,including school homework,a puzzle game, a LOGO interpreter and even a songlist of Akie.
 
 <!--
 **MiserableMagical/MiserableMagical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
